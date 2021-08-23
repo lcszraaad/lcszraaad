@@ -1,4 +1,4 @@
-Oi! Eu sou a Lucas Dias 🤞
+<strong>Oi! Eu sou a Lucas Dias 🤞</strong>
 
 
  <div>
